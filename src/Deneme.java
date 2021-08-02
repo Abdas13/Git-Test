@@ -1,5 +1,6 @@
 public class Deneme {
     public static void main(String[] args) {
         System.out.println("merhaba git");
+        System.out.println("Ben geldim.");
     }
 }
