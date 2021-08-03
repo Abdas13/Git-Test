@@ -4,5 +4,6 @@ public class Deneme {
         System.out.println("Ben geldim.");
         System.out.println("Aaaaaaaaa.");
         System.out.println("Uykum gelmedi ki");
+        System.out.println(Kendini kandirma);
     }
 }
